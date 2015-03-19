@@ -34,7 +34,7 @@ class Crud_model extends CI_Model{
 	public function do_update($dados=NULL, $condicao=NULL){
 		if($dados != NULL && $condicao != NULL):
 		$this->db->update('USUARIO', $dados, $condicao);
-		$this->session->set_flashdata('edicaook', 'Alteração efetuada com sucesso');
+		$this->session->set_flashdata('edicaook', 'Alteraç£¯ efetuada com sucesso');
 		redirect(current_url());
 		endif;
 	}

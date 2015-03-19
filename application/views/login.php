@@ -6,7 +6,7 @@
   <body>
     <h1>Entre com seu email e senha</h1>
     <?php echo validation_errors(); ?>
-    <?php echo form_open('verifylogin'); ?>
+    <?php echo form_open('autentica'); ?>
       <label for="usuario">Usuario:</label>
       <input type="text" size="20" id="usuario" name="usuario"/>
       <br/>

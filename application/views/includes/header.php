@@ -1,13 +1,10 @@
 <!DOCTYPE html>
 <html lang="pt-br">
 	<head>
-		<title>Contact</title>
+		<title></title>
 		<meta charset="utf-8">
 		<link rel="icon" href="<?php echo base_url('public/img/favicon.ico');?>" type="image/x-icon">
 		<link rel="shortcut icon" href="<?php echo base_url('public/img/favicon.ico');?>" type="image/x-icon" />
-		<meta name="description" content="Your description">
-		<meta name="keywords" content="Your keywords">
-		<meta name="author" content="Your name">
 		<link rel="stylesheet" href="<?php echo base_url('public/css/bootstrap.css');?>" type="text/css" media="screen">
 		<link rel="stylesheet" href="<?php echo base_url('public/css/responsive.css');?>" type="text/css" media="screen">
 		<link rel="stylesheet" href="<?php echo base_url('public/css/style.css');?>" type="text/css" media="screen">
